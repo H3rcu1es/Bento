@@ -19,7 +19,7 @@ const CONFIG = {
 	// Greetings
 	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afterMoon' ,
-	greetingEvening: 'Good evening hercules,',
+	greetingEvening: 'Good evening ',
 	greetingNight: 'Go to sleep ',
 
 	// Layout
@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://https://mail.google.com/mail/u/0/#inbox/',
 		},
 		{
 			id: '3',
