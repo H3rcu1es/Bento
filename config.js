@@ -12,9 +12,9 @@ const CONFIG = {
 
 	// General
 	name: 'Kayfee',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Pinterest',
+			icon: 'scan-eye',
+			link: 'https://www.pinterest.com/',
 		},
 		{
 			id: '4',
