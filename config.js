@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Myanimelist',
 			icon: 'swords',
-			link: 'myanimelist.net',
+			link: 'https://myanimelist.net/',
 		},
 		{
 			id: '5',
