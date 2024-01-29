@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://dodi-repacks.site/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Artstation',
+					link: 'https://www.artstation.com/',
 				},
 				{
 					name: 'Trello',
