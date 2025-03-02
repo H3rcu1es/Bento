@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ChatGPT',
+					link: 'https://chatgpt.com/',
 				},
 				{
 					name: 'Classic',
@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Dodi-repack',
-					link: 'https://dodi-repacks.site/',
+					name: 'Fitgirl-repack',
+					link: 'https://fitgirl-repacks.site/',
 				},
 				{
 					name: 'Artstation',
